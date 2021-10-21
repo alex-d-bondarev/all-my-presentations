@@ -13,6 +13,7 @@ Testing
 - [Page Object is not the only Test Pattern](https://docs.google.com/presentation/d/1y9pb7iG5Ti32h_aYuJSuWx9sJD0OzVyJiviOAFCrPlE/edit?usp=sharing)
 - [ETL testing](https://docs.google.com/presentation/d/1io1nDa60Nt8K-kCI86ZO0H16XQBXbIlAu_sozW3LSEQ/edit?usp=sharing)
 - [QA vs. QC vs. Testing](https://docs.google.com/presentation/d/1pKe4laKqhZD7l32TRIpTX6q5BR-b_5o3RS8idu4VthQ/edit?usp=sharing)
+- [5 Minutes of TDD](https://docs.google.com/presentation/d/1RED7YSTjBY1R0wmY_K_Nm8UOneXbxO-1XWAg0Qa9h6s/edit?usp=sharing)
 
 Management
 ----------
