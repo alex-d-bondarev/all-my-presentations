@@ -35,3 +35,4 @@ Other
 
 - [Time Series DB](https://docs.google.com/presentation/d/1rFy5cCkXF7AUrnD7SnCHWXU8N2rzUkZcbHb_335_JR4/edit?usp=sharing)
 - [Terminals](https://docs.google.com/presentation/d/1GTyXZsRauxV1OUJjEGtqoc3TJWxlvgJEroIwveU4ojE/edit?usp=sharing)
+- [Python types](https://docs.google.com/presentation/d/1qM3TfZjfB48kDnxnM_yHl-rsAJRmhFR9Inx1BdRMTAU/edit?usp=sharing)
