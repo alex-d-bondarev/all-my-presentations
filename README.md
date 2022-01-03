@@ -24,6 +24,11 @@ Management
 - [Ethics in IT](https://docs.google.com/presentation/d/1spvABrUdG9R0LoSYZz_MMA5D_K4ygevR-vBVaPspM0Q/edit?usp=sharing)
 - [Software Piracy](https://docs.google.com/presentation/d/1K9jsui1Dr1bIlZ-2NhO-QHtqKW8R-1-N5Aw5PhzDek8/edit?usp=sharing)
 
+Python
+-----
+- [Python types](https://docs.google.com/presentation/d/1qM3TfZjfB48kDnxnM_yHl-rsAJRmhFR9Inx1BdRMTAU/edit?usp=sharing)
+- [Too many arguments](https://docs.google.com/presentation/d/1kZByV9ImP2T-GZqZYkKn00sGtDrWzErN7t-0npA2eCs/edit?usp=sharing)
+
 Java
 ----
 
@@ -35,4 +40,3 @@ Other
 
 - [Time Series DB](https://docs.google.com/presentation/d/1rFy5cCkXF7AUrnD7SnCHWXU8N2rzUkZcbHb_335_JR4/edit?usp=sharing)
 - [Terminals](https://docs.google.com/presentation/d/1GTyXZsRauxV1OUJjEGtqoc3TJWxlvgJEroIwveU4ojE/edit?usp=sharing)
-- [Python types](https://docs.google.com/presentation/d/1qM3TfZjfB48kDnxnM_yHl-rsAJRmhFR9Inx1BdRMTAU/edit?usp=sharing)
