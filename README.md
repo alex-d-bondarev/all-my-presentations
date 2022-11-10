@@ -29,6 +29,7 @@ Python
 -----
 - [Python types](https://docs.google.com/presentation/d/1qM3TfZjfB48kDnxnM_yHl-rsAJRmhFR9Inx1BdRMTAU/edit?usp=sharing)
 - [Too many arguments](https://docs.google.com/presentation/d/1kZByV9ImP2T-GZqZYkKn00sGtDrWzErN7t-0npA2eCs/edit?usp=sharing)
+- [Try catch in pytest](https://docs.google.com/presentation/d/1HL7Jz-HdNuzx9TvOjGGCuWoJXuEvzkqzEHNLV5E1eMI/edit?usp=sharing)
 
 Java
 ----
